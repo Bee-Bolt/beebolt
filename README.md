@@ -62,7 +62,7 @@ The platform is structured around several independent, high-performance microser
 - **Security:** Fireblocks for custody, MPC wallets
 - **Monitoring:** Prometheus + Grafana
 - **Deployment:** Docker, Kubernetes for orchestration
-- **Frontend (Webapp):** React.js with Tailwind CSS (Shadow Buzz theme: black background with neon yellow/electric purple accents)
+- **Frontend (Webapp and Mobile):** React.js with Tailwind CSS (Shadow Buzz theme: black background with neon yellow/electric purple accents) and Flutter with zmaterial ui
 
 ## ⚙️ JIT Card Spending Workflow (The Critical Path)
 
